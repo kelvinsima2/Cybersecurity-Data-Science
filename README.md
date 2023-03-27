@@ -7,4 +7,4 @@
 - The code for the CICIDS2017 dataset can be found [here](https://github.com/kelvinsima2/Cybersecurity-Data-Science/blob/main/Notebooks/CICIDS2017_Data_Science_Project.ipynb).
 - The code for the CICDDoS2019 dataset can be found [here](https://github.com/kelvinsima2/Cybersecurity-Data-Science/blob/main/Notebooks/CICDDoS2019_Data_Science_Project.ipynb).
 - The code for the NSL-KDD dataset can be found [here](https://github.com/kelvinsima2/Cybersecurity-Data-Science/blob/main/Notebooks/NSL_KDD_Data_Science_Project.ipynb).
-The full report for the project can be found [here](/assets/MSc_Data_Science_Dissertation.pdf)
+- The full report for the project can be found [here](/assets/MSc_Data_Science_Dissertation.pdf)
